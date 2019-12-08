@@ -15,8 +15,6 @@ Other than the range rule, the following are true:
 123789 does not meet these criteria (no double).  
 How many different passwords within the range given in your puzzle input meet these criteria?
 
-Your puzzle answer was 895.
-
 ## Part Two
 
 An Elf just remembered one more important detail: the two adjacent matching digits are not part of a larger group of matching digits.
